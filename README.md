@@ -5,7 +5,7 @@ Project Overview
 This project focuses on analyzing the Netflix dataset using SQL queries to extract meaningful insights related to movies and TV shows.
 The goal is to demonstrate data analysis, SQL querying skills, and business-oriented thinking using a real-world dataset.
 
-Dataset Description
+# Dataset Description
 
 The dataset contains information about Netflix content, including:
 
@@ -33,7 +33,7 @@ Genre (Listed In)
 
 Description
 
-🎯 Objectives
+# Objectives
 
 Analyze Netflix content distribution
 
@@ -43,21 +43,13 @@ Use SQL functions to answer business questions
 
 Improve SQL querying and data analysis skills
 
-🛠 Tools & Technologies Used
+# Tools & Technologies Used
 
-SQL
-
-MySQL / PostgreSQL (any SQL-supported DB)
+PostgreSQL (any SQL-supported DB)
 
 GitHub (Project hosting)
 
-📂 Project Structure
-Netflix-SQL-Project/
-│
-├── Netflix Sql Project.sql     # SQL queries file
-├── README.md                   # Project documentation
-
-🔍 Key Analysis Performed
+ # Key Analysis Performed
 
 Total number of movies and TV shows
 
@@ -75,7 +67,7 @@ Content added in recent years
 
 Rating-wise distribution
 
-🧠 Sample SQL Queries
+# Sample SQL Queries
 -- Count total movies and TV shows
 SELECT type, COUNT(*) AS total
 FROM netflix
@@ -88,7 +80,7 @@ GROUP BY country
 ORDER BY total_content DESC
 LIMIT 5;
 
-📈 Insights & Learnings
+# Insights & Learnings
 
 SQL is powerful for data exploration and analysis
 
@@ -98,7 +90,7 @@ Real-world datasets improve analytical thinking
 
 This project strengthens skills needed for Data Analyst roles
 
-🚀 How to Run This Project
+# How to Run This Project
 
 Import the dataset into your SQL database
 
@@ -108,7 +100,7 @@ Execute queries one by one
 
 Analyze the results
 
-📌 Use Case
+# Use Case
 
 Data Analyst Portfolio Project
 
@@ -118,7 +110,7 @@ Interview Preparation
 
 Academic Mini Project
 
-🙌 Conclusion
+# Conclusion
 
 This project demonstrates practical SQL skills applied to a real-world dataset.
 It is ideal for beginners and aspiring data analysts to showcase their SQL proficiency on GitHub.
