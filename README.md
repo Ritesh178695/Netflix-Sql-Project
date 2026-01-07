@@ -1,5 +1,6 @@
 # Netflix-Sql-Project
-![Netflix Logo](images/netflix-logo.png)
+![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
+
 
 
 # Netflix SQL Data Analysis Project
